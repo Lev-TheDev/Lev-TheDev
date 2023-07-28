@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JAVA back-end projects.
-- 🌱 I’m currently learning JAVA language and Springboot.
+- 🌱 I’m currently learning JAVA language.
 - 👯 I’m looking to collaborate on cybersecurity area projects.
 - 🤔 I’m looking for help with learning advanced back-end and cybersecurity content.
-- 💬 Ask me about psychology and triathlon and we'll have a good talk.
-- 😄 Pronouns: he/him.
 
 <div align="center">
 <a href="https://github.com/Lev-TheDev">
