@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 - 🔭 I’m currently working on JAVA back-end projects.
 - 🌱 I’m currently learning JAVA language.
