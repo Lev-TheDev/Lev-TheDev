@@ -1,4 +1,8 @@
 ### Hey there! My name is Jhonathan! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!+:%29)](https://git.io/typing-svg)
+
+
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 I’m working on JAVA back-end projects.
@@ -43,3 +47,5 @@
 <a href="https://www.linkedin.com/in/jhonathan-roger-levino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
   ##
+
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
