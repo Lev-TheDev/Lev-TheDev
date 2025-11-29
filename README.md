@@ -35,8 +35,8 @@
 
 ### 👨‍💻 Below are some projects that I developed:
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Lev-TheDev&repo=Projeto-Xadrez&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lev-TheDev/Projeto-Xadrez)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=Lev-TheDev&repo=Projeto-Pensionato&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lev-TheDev/Projeto-Pensionato)
+[![Projeto-Xadrez](https://github-readme-stats.vercel.app/api/pin/?username=Lev-TheDev&repo=Projeto-Xadrez&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lev-TheDev/Projeto-Xadrez)
+[![IA-Natty or Not]([https://github-readme-stats.vercel.app/api/pin/?username=Lev-TheDev&repo=DIO-lab-natty-or-not&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lev-TheDev/DIO-lab-natty-or-not/tree/main)
 
   ##
 
