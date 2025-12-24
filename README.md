@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lev-TheDev&theme=dark" />
   <a href="https://github.com/Lev-TheDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lev-TheDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev-TheDev&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
@@ -40,10 +40,25 @@
 
 ### 👨‍💻 Below are some projects that I developed:
 
-<div align="center">
-
-[![Projeto-Xadrez](https://github-readme-stats.vercel.app/api/pin/?username=Lev-TheDev&repo=Projeto-Xadrez&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lev-TheDev/Projeto-Xadrez)
-[![IA-Natty or Not](https://github-readme-stats.vercel.app/api/pin/?username=Lev-TheDev&repo=DIO-lab-natty-or-not&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lev-TheDev/DIO-lab-natty-or-not/tree/main)
+<div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>♟️ Projeto Xadrez</h3>
+      <p>Sistema de jogo de xadrez completo via console, aplicando conceitos avançados de POO e tratamento de exceções.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/Lev-TheDev/Projeto-Xadrez"><strong>Explore o Repositório »</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 CRUD Spring Boot 3</h3>
+      <p>Web Service RESTful completo para gestão de pedidos, usuários e produtos com Spring Boot e Hibernate.</p>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/Lev-TheDev/CRUD-springboot3-jpa"><strong>Explore o Repositório »</strong></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
