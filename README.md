@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!+:%29)](https://git.io/typing-svg)
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" width="400px">
-</div>
 
 - 🔭 I’m working on JAVA back-end projects.
 - 🌱 Currently learning JAVA language and recently learning Python and Front-End with JavaScript/React.
@@ -15,9 +12,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lev-TheDev&theme=dark" />
-  <a href="https://github.com/Lev-TheDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev-TheDev&layout=compact&langs_count=7&theme=dark"/>
-  </a>
 </div>
 
 ---
