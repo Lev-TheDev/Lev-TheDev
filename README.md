@@ -43,15 +43,17 @@
 
 ### 👨‍💻 Below are some projects that I developed:
 
+
 <div>
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>♟️ Projeto Xadrez</h3>
-      <p>Sistema de jogo de xadrez completo via console, aplicando conceitos avançados de POO e tratamento de exceções.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <h3>☕ JDBC Triggers & Procedures</h3>
+      <p>Persistência de dados nativa em Java com JDBC, controle manual de transações (ACID), Flyway migrations, Procedures, Views e Triggers no MySQL.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Lev-TheDev/Projeto-Xadrez"><strong>Explore o Repositório »</strong></a>
+      <a href="https://github.com/Lev-TheDev/jdbc-triggers-procedures"><strong>Explore o Repositório »</strong></a>
     </td>
     <td align="center" width="50%">
       <h3>🚀 CRUD Spring Boot 3</h3>
