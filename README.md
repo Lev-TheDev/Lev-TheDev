@@ -43,18 +43,18 @@
   <tr>
     <td align="center" width="50%">
       <h3>☕ JDBC Triggers & Procedures</h3>
-      <p>Persistência de dados nativa em Java com JDBC, controle manual de transações (ACID), Flyway migrations, Procedures, Views e Triggers no MySQL.</p>
+      <p>Native data persistence in Java using JDBC, manual transaction control (ACID), Flyway migrations, and stored procedures, views, and triggers in MySQL.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Lev-TheDev/jdbc-triggers-procedures"><strong>Explore o Repositório »</strong></a>
+      <a href="https://github.com/Lev-TheDev/jdbc-triggers-procedures"><strong>Explore the Repository »</strong></a>
     </td>
     <td align="center" width="50%">
       <h3>🚀 CRUD Spring Boot 3</h3>
-      <p>Web Service RESTful completo para gestão de pedidos, usuários e produtos com Spring Boot e Hibernate.</p>
+      <p>A complete RESTful web service for managing orders, users, and products, built with Spring Boot and Hibernate.</p>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Lev-TheDev/CRUD-springboot3-jpa"><strong>Explore o Repositório »</strong></a>
+      <a href="https://github.com/Lev-TheDev/CRUD-springboot3-jpa"><strong>Explore the Repository »</strong></a>
     </td>
   </tr>
 </table>
